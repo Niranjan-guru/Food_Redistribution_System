@@ -1,0 +1,3 @@
+[submodule "FeedZie"]
+    path = FeedZie
+    url = https://github.com/Niranjan-guru/Food_Redistribution_System.git
